@@ -1,17 +1,14 @@
 # Repo-specific GitIgnore ----------------------------------------------------------------------------------------------
 *.jpeg
-*.png
 *.bmp
 *.tif
 *.tiff
 *.heic
 *.JPEG
-*.PNG
 *.BMP
 *.TIF
 *.TIFF
 *.HEIC
-*.mp4
 *.mov
 *.MOV
 *.avi
