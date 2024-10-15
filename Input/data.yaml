@@ -1,0 +1,5 @@
+train: ./Input/train/images 
+val: ./Input/test/images 
+
+nc: 2  # number of classes
+names: ['smoke', 'fire']  # class names
